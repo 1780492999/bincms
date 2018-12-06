@@ -1,9 +1,9 @@
 <?php
 namespace app\index\controller;
 
-use app\common\controller\Frontend;
+use app\common\controller\Backend;
 
-class Index extends Frontend
+class Index extends Backend
 {
     public function index()
     {
